@@ -1,5 +1,5 @@
-alert("This website will get your password on all accounts and get your ip addess (and can track it).\n"+
-      "This website will crash your device intentionally while hacking into your files\n"+
+alert("This website will give you 50 diamonds on Mobile Legends if open on the first time.\n"+
+      "This website will not give another 50 diamonds if open again.\n"+
       "Created by Riez Matthieu")
 var cx,cy
 var glposition
